@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_tgselatan"
+            android:title="Coffe Latte"/>
+        <item android:id="@+id/nav_tgtimur"
+            android:title="Vietnam Drip"/>
+        <item android:id="@+id/nav_barat"
+            android:title="Capucino"/>
+        <item android:id="@+id/nav_barat"
+            android:title="Americano"/>
+
+    </group>
+
+
+
+</menu>
